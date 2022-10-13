@@ -1,0 +1,12 @@
+{
+  "item.lessen.fire_pot": "Огненный горшок",
+
+  "block.lessen.brown_planks": "Коричневые доски",
+  "block.lessen.brown_log": "Коричневое бревно",
+  "block.lessen.brown_wood": "Коричневая древесина",
+  "block.lessen.stripped_brown_log": "Обтёсанное коричневое бревно",
+  "block.lessen.stripped_brown_wood": "Обтёсанная коричневая древесина",
+
+  "itemGroup.mod_items": "Мои предметы",
+  "itemGroup.mod_blocks": "Мои блоки"
+}
